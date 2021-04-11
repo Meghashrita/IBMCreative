@@ -1,6 +1,6 @@
 # IBM Creative Challenge QCHACK2021
 
-terference
+Quantum Iterference
 
 Like a classical computer, a quantum computer operates on bits. However, while classical bits can only be found in the states 0 and 1, a quantum bit, or qubit, can represent the values 0 and 1, or linear combinations of both. These linear combinations are known as superpositions (or superposition states).
 
