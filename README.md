@@ -17,3 +17,6 @@ The file Untitled(7).ipynb contains the DistanceBasedClassifier class which perf
 Article DOI: https://doi.org/10.1209/0295-5075/119/60002
 
 arXiv link: https://arxiv.org/pdf/1703.10793.pdf
+
+# Future Plans
+Controlling destructive quantum interference in tunneling junctions comprising self-assembled monolayers
