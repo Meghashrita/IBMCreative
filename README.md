@@ -9,9 +9,9 @@ To see how this resource is utilized in quantum computation we first turn to a c
 The file Untitled(7).ipynb contains the DistanceBasedClassifier class which performs the classification of the two Iris flower datapoints x' and x'' that were used in the original publication.
 
 # Team Members
-Andres Marulanda
-Vince Plaza
-Meghashrita Das
+1. Andres Marulanda
+2. Vince Plaza
+3. Meghashrita Das
 
 # Resources
 Article DOI: https://doi.org/10.1209/0295-5075/119/60002
